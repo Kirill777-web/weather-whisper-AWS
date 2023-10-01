@@ -32,6 +32,9 @@ Weather Whisper is a web-based application designed to provide users with real-t
 
 The application is hosted using Amazon S3 and distributed via Amazon CloudFront, ensuring users from around the globe can access the app with low latency.
 
+## Screenshots
+
+
 ## Future Enhancements
 - Expand weather data to include forecasts, humidity, wind speed, and more.
 - Implement user accounts for personalized weather dashboards.
