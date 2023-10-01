@@ -3,7 +3,7 @@
 
 # Weather Whisper - AWS Edition
 
-## Weather Whisper is a web-based application designed to provide users with real-time weather information. This AWS Edition showcases the full migration and optimization of the application within the AWS Cloud.
+Weather Whisper is a web-based application designed to provide users with real-time weather information. This AWS Edition showcases the full migration and optimization of the application within the AWS Cloud.
 
 ## Features
 
